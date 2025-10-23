@@ -1,2 +1,2 @@
 # ScannerLocals
-scanning connections for windows OS
+scanning TCP/ UDP port incomming connections for windows OS
